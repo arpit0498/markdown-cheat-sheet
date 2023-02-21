@@ -115,10 +115,10 @@ Note :
 ### Inline Code
 
 ```markdown
-This is inline code `const name = 'Shubham';`, we use Backticks.
+This is inline code `const name = 'Arpit';`, we use Backticks.
 ```
 
-This is inline code `const name = 'Shubham';`
+This is inline code `const name = 'Arpit';`
 
 ### Block of code
 
@@ -130,7 +130,7 @@ For syntax highlighting add the name of programming language you are using right
 function sayHello(name){
       console.log("Hello", ${name});
 }
-const name= 'Shubham';
+const name= 'Arpit';
 sayHello(name);
 ```
 ````
@@ -139,7 +139,7 @@ sayHello(name);
 function sayHello(name){
       console.log("Hello", ${name});
 }
-const name= 'Shubham';
+const name= 'Arpit';
 sayHello(name);
 ```
 
@@ -151,16 +151,16 @@ Add '+' before the new line of code you want to add.
 
 ````
 ```diff
-- const firstName = 'Shubham';
-+ const firstName = 'Divyanshi';
-const lastName = 'Kadam';
+- const firstName = 'Arpit';
++ const firstName = 'Sumit';
+const lastName = 'Gupta';
 ```
 ````
 
 ```diff
-- const firstName = 'Shubham';
-+ const firstName = 'Divyanshi';
-const lastName = 'Kadam';
+- const firstName = 'Arpit';
++ const firstName = 'Sumit';
+const lastName = 'Gupta';
 
 ```
 
